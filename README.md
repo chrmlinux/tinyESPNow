@@ -13,3 +13,5 @@ MIT license, all text here must be included in any redistribution.
 # 0.0.1
 
 1st
+https://qiita-com.translate.goog/chrmlinux03/items/0c2b84ac80483391ee7c?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp
+
