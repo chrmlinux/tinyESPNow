@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map tinyESPNow
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+tinyESPNow 	KEYWORD1	tinyESPNow
+tEN 			KEYWORD1 	tinyESPNow
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin			KEYWORD2
+end				KEYWORD2
+update 		KEYWORD2
+isBufFull KEYWORD2
+get 			KEYWORD2
+put 			KEYWORD2
